@@ -1,0 +1,256 @@
+{
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-300-normal.woff2": {
+    "file": "assets/nunito-cyrillic-ext-300-normal.ceae79e8.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-300-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-300-normal.woff2": {
+    "file": "assets/nunito-vietnamese-300-normal.852fea9b.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-300-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-300-normal.woff2": {
+    "file": "assets/nunito-cyrillic-300-normal.a6b4117f.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-300-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-300-normal.woff2": {
+    "file": "assets/nunito-latin-ext-300-normal.87cd244c.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-300-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-300-normal.woff2": {
+    "file": "assets/nunito-latin-300-normal.ce8a080d.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-300-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-400-normal.woff2": {
+    "file": "assets/nunito-cyrillic-400-normal.88439680.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-400-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-400-normal.woff2": {
+    "file": "assets/nunito-cyrillic-ext-400-normal.29a4d00e.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-400-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-400-normal.woff2": {
+    "file": "assets/nunito-vietnamese-400-normal.7ed3b3e7.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-400-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-400-normal.woff2": {
+    "file": "assets/nunito-latin-ext-400-normal.a8aed46d.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-400-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-400-normal.woff2": {
+    "file": "assets/nunito-latin-400-normal.5e2f97ea.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-400-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-600-normal.woff2": {
+    "file": "assets/nunito-cyrillic-ext-600-normal.0bcfeeed.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-600-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-600-normal.woff2": {
+    "file": "assets/nunito-cyrillic-600-normal.f8ff8539.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-600-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-600-normal.woff2": {
+    "file": "assets/nunito-vietnamese-600-normal.2c7a70fb.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-600-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-600-normal.woff2": {
+    "file": "assets/nunito-latin-ext-600-normal.47343f99.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-600-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-600-normal.woff2": {
+    "file": "assets/nunito-latin-600-normal.4e1f5eed.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-600-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-700-normal.woff2": {
+    "file": "assets/nunito-cyrillic-ext-700-normal.926ccc34.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-700-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-700-normal.woff2": {
+    "file": "assets/nunito-cyrillic-700-normal.124b6ae7.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-700-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-700-normal.woff2": {
+    "file": "assets/nunito-vietnamese-700-normal.cd106164.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-700-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-700-normal.woff2": {
+    "file": "assets/nunito-latin-700-normal.923eb1ee.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-700-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-800-normal.woff2": {
+    "file": "assets/nunito-cyrillic-ext-800-normal.65f430a2.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-ext-800-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-800-normal.woff2": {
+    "file": "assets/nunito-vietnamese-800-normal.0527ea59.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-vietnamese-800-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-800-normal.woff2": {
+    "file": "assets/nunito-cyrillic-800-normal.985be641.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-cyrillic-800-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-800-normal.woff2": {
+    "file": "assets/nunito-latin-ext-800-normal.22822cdc.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-800-normal.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-800-normal.woff2": {
+    "file": "assets/nunito-latin-800-normal.0e63ca0b.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-800-normal.woff2"
+  },
+  "resources/css/fonts/vendor/bootstrap-icons/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons.c69bf1cc.woff2",
+    "src": "resources/css/fonts/vendor/bootstrap-icons/bootstrap-icons.woff2"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-700-normal.woff2": {
+    "file": "assets/nunito-latin-ext-700-normal.3ea0b8a2.woff2",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-latin-ext-700-normal.woff2"
+  },
+  "public/webfonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400.e4299464.eot",
+    "src": "public/webfonts/fa-brands-400.eot"
+  },
+  "public/webfonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400.79d08806.eot",
+    "src": "public/webfonts/fa-regular-400.eot"
+  },
+  "public/webfonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900.373c04fd.eot",
+    "src": "public/webfonts/fa-solid-900.eot"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-300-normal.woff": {
+    "file": "assets/nunito-all-300-normal.452b4775.woff",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-300-normal.woff"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-400-normal.woff": {
+    "file": "assets/nunito-all-400-normal.2749635f.woff",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-400-normal.woff"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-600-normal.woff": {
+    "file": "assets/nunito-all-600-normal.f6055c62.woff",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-600-normal.woff"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-700-normal.woff": {
+    "file": "assets/nunito-all-700-normal.9ac1f64b.woff",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-700-normal.woff"
+  },
+  "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-800-normal.woff": {
+    "file": "assets/nunito-all-800-normal.5ebe3d95.woff",
+    "src": "resources/css/fonts/vendor/@fontsource/nunito/files/nunito-all-800-normal.woff"
+  },
+  "resources/css/fonts/vendor/bootstrap-icons/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons.13977b4a.woff",
+    "src": "resources/css/fonts/vendor/bootstrap-icons/bootstrap-icons.woff"
+  },
+  "public/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400.e42a8844.woff2",
+    "src": "public/webfonts/fa-regular-400.woff2"
+  },
+  "public/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400.8ea87917.woff2",
+    "src": "public/webfonts/fa-brands-400.woff2"
+  },
+  "public/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900.9834b82a.woff2",
+    "src": "public/webfonts/fa-solid-900.woff2"
+  },
+  "public/webfonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400.cb9e9e69.woff",
+    "src": "public/webfonts/fa-regular-400.woff"
+  },
+  "public/webfonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900.3f6d3488.woff",
+    "src": "public/webfonts/fa-solid-900.woff"
+  },
+  "public/webfonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400.f9217f66.woff",
+    "src": "public/webfonts/fa-brands-400.woff"
+  },
+  "public/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400.e8711bbb.ttf",
+    "src": "public/webfonts/fa-regular-400.ttf"
+  },
+  "public/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900.af639750.ttf",
+    "src": "public/webfonts/fa-solid-900.ttf"
+  },
+  "public/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400.cda59d6e.ttf",
+    "src": "public/webfonts/fa-brands-400.ttf"
+  },
+  "public/webfonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400.be0a0849.svg",
+    "src": "public/webfonts/fa-regular-400.svg"
+  },
+  "public/webfonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400.a3b98177.svg",
+    "src": "public/webfonts/fa-brands-400.svg"
+  },
+  "public/webfonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900.9674eb1b.svg",
+    "src": "public/webfonts/fa-solid-900.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.bd23bc68.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.18460d73.css"
+    ],
+    "assets": [
+      "assets/nunito-cyrillic-ext-300-normal.ceae79e8.woff2",
+      "assets/nunito-all-300-normal.452b4775.woff",
+      "assets/nunito-cyrillic-300-normal.a6b4117f.woff2",
+      "assets/nunito-vietnamese-300-normal.852fea9b.woff2",
+      "assets/nunito-latin-ext-300-normal.87cd244c.woff2",
+      "assets/nunito-latin-300-normal.ce8a080d.woff2",
+      "assets/nunito-cyrillic-ext-400-normal.29a4d00e.woff2",
+      "assets/nunito-all-400-normal.2749635f.woff",
+      "assets/nunito-cyrillic-400-normal.88439680.woff2",
+      "assets/nunito-vietnamese-400-normal.7ed3b3e7.woff2",
+      "assets/nunito-latin-ext-400-normal.a8aed46d.woff2",
+      "assets/nunito-latin-400-normal.5e2f97ea.woff2",
+      "assets/nunito-cyrillic-ext-600-normal.0bcfeeed.woff2",
+      "assets/nunito-all-600-normal.f6055c62.woff",
+      "assets/nunito-cyrillic-600-normal.f8ff8539.woff2",
+      "assets/nunito-vietnamese-600-normal.2c7a70fb.woff2",
+      "assets/nunito-latin-ext-600-normal.47343f99.woff2",
+      "assets/nunito-latin-600-normal.4e1f5eed.woff2",
+      "assets/nunito-cyrillic-ext-700-normal.926ccc34.woff2",
+      "assets/nunito-all-700-normal.9ac1f64b.woff",
+      "assets/nunito-cyrillic-700-normal.124b6ae7.woff2",
+      "assets/nunito-vietnamese-700-normal.cd106164.woff2",
+      "assets/nunito-latin-ext-700-normal.3ea0b8a2.woff2",
+      "assets/nunito-latin-700-normal.923eb1ee.woff2",
+      "assets/nunito-cyrillic-ext-800-normal.65f430a2.woff2",
+      "assets/nunito-all-800-normal.5ebe3d95.woff",
+      "assets/nunito-cyrillic-800-normal.985be641.woff2",
+      "assets/nunito-vietnamese-800-normal.0527ea59.woff2",
+      "assets/nunito-latin-ext-800-normal.22822cdc.woff2",
+      "assets/nunito-latin-800-normal.0e63ca0b.woff2",
+      "assets/bootstrap-icons.c69bf1cc.woff2",
+      "assets/bootstrap-icons.13977b4a.woff",
+      "assets/fa-brands-400.e4299464.eot",
+      "assets/fa-brands-400.8ea87917.woff2",
+      "assets/fa-brands-400.f9217f66.woff",
+      "assets/fa-brands-400.cda59d6e.ttf",
+      "assets/fa-brands-400.a3b98177.svg",
+      "assets/fa-regular-400.79d08806.eot",
+      "assets/fa-regular-400.e42a8844.woff2",
+      "assets/fa-regular-400.cb9e9e69.woff",
+      "assets/fa-regular-400.e8711bbb.ttf",
+      "assets/fa-regular-400.be0a0849.svg",
+      "assets/fa-solid-900.373c04fd.eot",
+      "assets/fa-solid-900.9834b82a.woff2",
+      "assets/fa-solid-900.3f6d3488.woff",
+      "assets/fa-solid-900.af639750.ttf",
+      "assets/fa-solid-900.9674eb1b.svg"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.bf7b311b.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.18460d73.css",
+    "src": "resources/js/app.css"
+  }
+}
