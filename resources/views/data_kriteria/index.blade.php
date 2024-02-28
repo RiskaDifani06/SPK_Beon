@@ -7,7 +7,7 @@
         <li class="nav-item active">
             <a class="nav-link" href="/admin">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
-                <span>Data Calon Karyawan</span></a>
+                <span>Dashboard</span></a>
         </li>
 
         <!-- Divider -->
@@ -28,7 +28,8 @@
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
                     <h6 class="collapse-header">Custom Kompetensi:</h6>
-                    <a class="collapse-item" href="buttons.html">Data Kriteria</a>
+                    <a class="collapse-item" href="{{route('datakaryawan')}}">Data Calon Karyawan</a>
+                    <a class="collapse-item" href="{{route('datakriteria')}}">Data Kriteria</a>
                     <a class="collapse-item" href="cards.html">Data Sub Kriteria</a>
                 </div>
             </div>
@@ -220,7 +221,7 @@
 
                                 {{-- new --}}
 
-                <a href="/dakatambah" class="btn-sm btn-primary text-decoration-none">Tambah data</a>
+                <a href="/tambahkriteria" class="btn-sm btn-primary text-decoration-none">Tambah data</a>
 
                 @if ($errors->any())
                     <div class="alert alert-danger">
@@ -258,9 +259,9 @@
                                             <tr>
                                                 <td>{{$item->nama_kriteria}}</td>
                                                 <td>{{$item->bobot_kriteria}}</td>
-                                                <td><a href="/dakaedit/{{$item->id}}" class="btn btn-warning text-decoration-none">Edit</a>
+                                                <td><a href="/editkriteria/{{$item->id}}" class="btn btn-warning text-decoration-none">Edit</a>
                                                     <form  onsubmit="return confirmHapus(event)"
-                                                    action="/dakahapus/{{$item->id}}" method="POST" class="d-inline">
+                                                    action="/hapuskriteria/{{$item->id}}" method="POST" class="d-inline">
                                                         @csrf
                                                         <button type="submit" 
                                                         class="btn btn-danger">Hapus</button>

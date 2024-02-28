@@ -29,7 +29,7 @@
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Custom Kompetensi:</h6>
                     <a class="collapse-item" href="{{route('datakaryawan')}}">Data Karyawan</a>
-                    <a class="collapse-item" href="buttons.html">Data Kriteria</a>
+                    <a class="collapse-item" href="{{route('datakriteria')}}">Data Kriteria</a>
                     <a class="collapse-item" href="cards.html">Data Sub Kriteria</a>
             </div>
         </div>
@@ -46,10 +46,6 @@
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Custom User:</h6>
                     <a class="collapse-item" href="{{route('usercontrol')}}">User Control</a>
-                    {{-- <a class="collapse-item" href="utilities-color.html">Colors</a>
-                    <a class="collapse-item" href="utilities-border.html">Borders</a>
-                    <a class="collapse-item" href="utilities-animation.html">Animations</a>
-                    <a class="collapse-item" href="utilities-other.html">Other</a> --}}
             </div>
         </div>
     </li>
@@ -74,12 +70,6 @@
                 <h6 class="collapse-header">Penilaian Calon Karyawan:</h6>
                 <a class="collapse-item" href="login.html">Data Penilaian</a>
                 <a class="collapse-item" href="login.html">Data Kalkulasi</a>
-                {{-- <a class="collapse-item" href="register.html">Register</a>
-                <a class="collapse-item" href="forgot-password.html">Forgot Password</a>
-                <div class="collapse-divider"></div>
-                <h6 class="collapse-header">Other Pages:</h6>
-                <a class="collapse-item" href="404.html">404 Page</a>
-                <a class="collapse-item" href="blank.html">Blank Page</a> --}}
             </div>
         </div>
     </li>

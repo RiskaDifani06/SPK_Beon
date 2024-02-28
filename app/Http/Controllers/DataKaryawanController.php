@@ -21,7 +21,7 @@ class DataKaryawanController extends Controller
         return view('data_karyawan.edit', ['data' => $data]); // Menggunakan 'data_karyawan.edit' dengan tanda kutip
     }    
     function hapus(Request $id){
-        DataKaryawan::where('id', $request->id)->delet();
+        DataKaryawan::where('id', $request->id)->delete();
 
         Session::flash('success', 'Berhasil Hapus Data');
 
@@ -46,7 +46,7 @@ class DataKaryawanController extends Controller
         DataKaryawan::insert([
             'name' => $request->name,
             'email' => $request->email,
-            'jeniskelamin' => $request->jeniskelamin,
+            'jeniskelamin' => strtoupper($request->jeniskelamin),
         ]);
 
         Session::flash('success', 'Data berhasil ditambahkan');

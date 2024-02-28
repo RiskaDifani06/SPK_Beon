@@ -29,7 +29,8 @@
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
                     <h6 class="collapse-header">Custom Kompetensi:</h6>
-                    <a class="collapse-item" href="buttons.html">Data Kriteria</a>
+                    <a class="collapse-item" href="{{route('datakaryawan')}}">Data Karyawan</a>
+                    <a class="collapse-item" href="{{route('datakriteria')}}">Data Kriteria</a>
                     <a class="collapse-item" href="cards.html">Data Sub Kriteria</a>>
                 </div>
             </div>
@@ -207,6 +208,7 @@
         </div>
     @endsection
 @endif
+
 @section('main')
     <div class="col-12 grid-margin stretch-card">
         <div class="card">
@@ -224,14 +226,14 @@
                 <form class="forms-sample" method="POST" action="/tambahdaka" enctype="multipart/form-data">
                     @csrf
                     <div class="form-group">
-                        <label for="nama">Nama</label>
-                        <input type="text" class="form-control" id="nama" name="name"
-                            value="{{ $data->name }}" required>
+                        <label for="nama">Nama lengkap</label>
+                        <input type="text" class="form-control" id="nama" placeholder="Kevin Example"
+                            name="fullname" required>
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail3">Email Address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail3" name="email"
-                            value="{{ $data->email }}" required>
+                        <label for="exampleInputEmail3">Email address</label>
+                        <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email"
+                            name="email" required>
                     </div>
                     <div class="form-group">
                         <label for="jeniskelamin">Jenis Kelamin</label>

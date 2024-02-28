@@ -30,7 +30,7 @@
                 <div class="bg-white py-2 collapse-inner rounded">
                     <h6 class="collapse-header">Custom Kompetensi:</h6>
                     <a class="collapse-item" href="{{route('datakaryawan')}}">Data Karyawan</a>
-                    <a class="collapse-item" href="buttons.html">Data Kriteria</a>
+                    <a class="collapse-item" href="{{route('datakriteria')}}">Data Kriteria</a>
                     <a class="collapse-item" href="cards.html">Data Sub Kriteria</a>>
                 </div>
             </div>
@@ -208,6 +208,7 @@
         </div>
     @endsection
 @endif
+
 @section('main')
     <div class="col-12 grid-margin stretch-card">
         <div class="card">

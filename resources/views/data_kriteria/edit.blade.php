@@ -8,7 +8,7 @@
         <li class="nav-item active">
             <a class="nav-link" href="/admin">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
-                <span>Data Calon Karyawan</span></a>
+                <span>Data Kriteria</span></a>
         </li>
 
         <!-- Divider -->
@@ -29,7 +29,8 @@
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
                     <h6 class="collapse-header">Custom Kompetensi:</h6>
-                    <a class="collapse-item" href="buttons.html">Data Calon Karyawan</a>
+                    <a class="collapse-item" href="{{route('datakaryawan')}}">Data Calon Karyawan</a>
+                    <a class="collapse-item" href="{{route('datakriteria')}}">Data Kriteria</a>
                     <a class="collapse-item" href="cards.html">Data Sub Kriteria</a>
                 </div>
             </div>
@@ -204,6 +205,7 @@
         </div>
     @endsection
 @endif
+
 @section('main')
     <div class="col-12 grid-margin stretch-card">
         <div class="card">
